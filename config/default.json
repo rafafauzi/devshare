@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://rafa123:rafa123@devsharing.q3ufrj5.mongodb.net/?retryWrites=true&w=majority",
+  "mongoURI": "",
   "jwtSecret": "secretKey",
   "githubClientId": "2671057f497371fef7a3",
   "githubSecret": "c0cdd9a54339a3c82f61c9f72191533691b7cffc"
